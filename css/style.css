@@ -1,0 +1,36 @@
+.card {
+    background-color: aqua;
+    width:350px ;
+    padding:20px ;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+#picture_one{
+    margin-left:50px ;
+}
+
+.cardred {
+    background-color:lightcoral ;
+}
+
+#picture_two{
+    margin-left:50px ;
+
+
+}
+.cardgreen { 
+    background-color: lightgreen;
+}
+
+#picture_three{
+    margin-left: 50px;
+}
+
+.cardpurple {
+    background-color:#c917e8 ;
+}
+
+#picture_four {
+    margin-left:50px ;
+}
